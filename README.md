@@ -1,2 +1,2 @@
 # chat-app
-A video chat App using webRTC and node
+ A video chat App using webRTC and node
